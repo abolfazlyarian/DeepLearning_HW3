@@ -3,6 +3,7 @@
 <h3 align="center"> Student Number : 400205641 </h3>
 
 ### dataset and models :
-dataset was zipped, please unzip it before run the code
-
-- Question1 : https://drive.google.com/drive/folders/13kQJ4sFxPLo3nt0bpz5IfpbncGsCyu6Z?usp=share_link
+- Question1 : dataset was zipped, please unzip it before run the code
+    https://drive.google.com/drive/folders/13kQJ4sFxPLo3nt0bpz5IfpbncGsCyu6Z?usp=share_link
+- Question2 : just models
+    https://drive.google.com/drive/folders/1LA2566dNO_M9zwZVNa4w2ekCvmQ039PZ?usp=share_link
